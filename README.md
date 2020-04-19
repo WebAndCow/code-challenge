@@ -1,2 +1,2 @@
-# code-challenge
-Fichiers permettant de réaliser les challenges et corrections
+# code-challenge-php
+Fichiers permettant de réaliser les challenges et corrections en PHP
